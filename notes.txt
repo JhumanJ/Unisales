@@ -1,0 +1,25 @@
+Code by JN
+
+-------------------------
+--------UNISALES---------
+-------------------------
+
+
+    ------ To DO ------
+
+    - profile page: add a view user, maybe with a get
+
+    -send email
+
+    - add capchta
+
+    - Forgotten password
+
+    - for Users add ratings (1 to 5 float)
+    ------- Maybe ---
+
+    - separate js from view
+
+
+    ------ To Do -----
+    - UserManager->save() : method might not work (where it checks the if the query is empty)
