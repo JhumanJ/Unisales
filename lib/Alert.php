@@ -45,6 +45,7 @@ class Alert
     public function messageToSession() {
         //unset($_SESSION['message']);
         $_SESSION['message'] = $this;
+        
     }
 
     public static function displayMessage() {
